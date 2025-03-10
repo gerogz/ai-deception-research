@@ -1,2 +1,2 @@
 # ai-deception-research
-Ongoing research project analyzing how humans perceive deception in AI systems. Includes survey data processing, risk categorization, and visualization. Conducted as part of my research in the RAIL Lab
+This repository contains the data processing and analysis pipeline for my research on risk perception in deceptive human-robot interactions, conducted at the RAIL Lab at Georgia Tech. The study evaluates how humans perceive deception in AI systems using survey data and statistical clustering methods.
